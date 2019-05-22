@@ -5,9 +5,121 @@
     <description>Blogs about my life and study.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 May 2019 10:11:48 +0800</pubDate>
-    <lastBuildDate>Wed, 22 May 2019 10:11:48 +0800</lastBuildDate>
+    <pubDate>Wed, 22 May 2019 10:34:50 +0800</pubDate>
+    <lastBuildDate>Wed, 22 May 2019 10:34:50 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>How to Download or Use This Theme</title>
+        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
+  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
+  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
+  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+
+&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/demo/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/demo/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Download or Use This Theme</title>
+        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
+  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
+  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
+  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+
+&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/demo-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/demo-4/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Download or Use This Theme</title>
+        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
+  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
+  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
+  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+
+&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/demo-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/demo-3/</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>How to Download or Use This Theme</title>
+        <description>&lt;h3 id=&quot;use-this-theme-as-you-main-site&quot;&gt;Use this theme as you main site&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Download or fork the master branch of this theme repo into your GitHub account.&lt;/li&gt;
+  &lt;li&gt;Rename the repo into something like &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file to your preferences.&lt;/li&gt;
+  &lt;li&gt;Edit &lt;code class=&quot;highlighter-rouge&quot;&gt;about.md&lt;/code&gt; file for your About page.&lt;/li&gt;
+  &lt;li&gt;Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; folder, there are sample of blog entries. Learn from it and start yours.&lt;/li&gt;
+  &lt;li&gt;Now, visit &lt;code class=&quot;highlighter-rouge&quot;&gt;http://your_username.github.io&lt;/code&gt; and you should see your blog running.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;use-this-theme-as-a-project-page&quot;&gt;Use this theme as a project page&lt;/h3&gt;
+
+&lt;p&gt;If you want to use this theme as a project page blog, you don’t need to rename the theme repo into &lt;code class=&quot;highlighter-rouge&quot;&gt;your_username.github.io&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;All you need to do, open &lt;code class=&quot;highlighter-rouge&quot;&gt;_config.yml&lt;/code&gt; file, change &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl&lt;/code&gt; to your project name which contains this theme, e.g. &lt;code class=&quot;highlighter-rouge&quot;&gt;baseurl: &quot;/myproject&quot;&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;cheers&quot;&gt;Cheers!&lt;/h4&gt;
+</description>
+        <pubDate>Fri, 10 Jun 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/demo-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/demo-2/</guid>
+        
+        
+      </item>
     
   </channel>
 </rss>
