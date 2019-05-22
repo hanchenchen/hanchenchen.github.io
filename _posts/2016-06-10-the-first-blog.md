@@ -1,9 +1,9 @@
 ---
-layout: compress
-title: "How to Download or Use This Theme"
+layout: post
+title: "the first blog"
 comments: true
-description: "How to Download or Use This Theme"
-keywords: "dummy content"
+description: ""
+keywords: "GitHub.io "
 ---
 
 ### Use this theme as you main site
