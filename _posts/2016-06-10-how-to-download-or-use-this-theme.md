@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "the first blog"
+title: "How to Download or Use This Theme"
 comments: true
-description: ""
-keywords: "GitHub.io "
+description: "How to Download or Use This Theme"
+keywords: "dummy content"
 ---
 
 ### Use this theme as you main site
